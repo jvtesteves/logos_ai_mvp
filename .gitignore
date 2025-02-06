@@ -1,0 +1,9 @@
+# Ignorar arquivos de acesso
+accesses/secrets.env
+
+# Ignorar ambientes virtuais
+venv/
+.env/
+*.pyc
+__pycache__/
+accesses/secrets.env
