@@ -2,3 +2,4 @@ python-telegram-bot
 whisper
 openai
 python-dotenv
+openai-whisper
